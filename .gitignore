@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.csv
+*.hgt
+*.npz
+*.dat
+*.tif
+heatmap_v2_output/
+srtm_raw/
+srtm_cache/
+public/
+temp/
+.DS_Store
